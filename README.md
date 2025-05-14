@@ -41,6 +41,6 @@ Compile o projeto usando NetBeans
 Execute o programa, inicie a aplicação e faça login com as credenciais configuradas.(admin, admin)
 
 
-##Desenvolvedores: 
+## Desenvolvedores: 
 Hugo Oliveira e Guilherme Martins
 
